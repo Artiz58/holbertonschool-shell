@@ -1,6 +1,2 @@
 #!/bin/bash
--rwxr--r-- 1 artiz58 artiz58 16 Oct  5 10:54 0-current_working_directory
--rwxr--r-- 1 artiz58 artiz58 15 Oct  5 11:07 1-listit
--rwxr--r-- 1 artiz58 artiz58 21 Oct  5 11:23 2-bring_me_home
--rw-r--r-- 1 artiz58 artiz58 13 Oct  5 11:30 3-listfiles
--rw-r--r-- 1 artiz58 artiz58 24 Oct  5 10:55 README.md
+
