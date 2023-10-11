@@ -1,0 +1,14 @@
+total 40
+drwxr-xr-x 1 artiz58 artiz58 252 Oct 10 21:11 .
+drwxr-xr-x 1 artiz58 artiz58 114 Oct 10 11:22 ..
+-rwxr--r-- 1 artiz58 artiz58  32 Oct 10 14:05 0-hello_world
+-rwxr--r-- 1 artiz58 artiz58  28 Oct 10 15:09 1-confused_smiley
+-rwxr--r-- 1 artiz58 artiz58  28 Oct 10 19:10 2-hellofile
+-rwxr--r-- 1 artiz58 artiz58  39 Oct 10 19:27 3-twofiles
+-rwxr--r-- 1 artiz58 artiz58  35 Oct 10 19:50 4-lastlines
+-rwxr--r-- 1 artiz58 artiz58  35 Oct 10 19:57 5-firstlines
+-rwxr--r-- 1 artiz58 artiz58  40 Oct 10 20:07 6-third_line
+-rwxr--r-- 1 artiz58 artiz58  99 Oct 10 20:47 7-file
+-rwxr--r-- 1 artiz58 artiz58  36 Oct 10 21:08 8-cwd_state
+-rw-r--r-- 1 artiz58 artiz58   0 Oct 10 21:11 ls_cwd_content
+-rw-r--r-- 1 artiz58 artiz58  48 Oct 10 14:09 README.md
