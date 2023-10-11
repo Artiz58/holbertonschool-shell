@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i tr "C" "c" -delete
+tr -d "Cc"
